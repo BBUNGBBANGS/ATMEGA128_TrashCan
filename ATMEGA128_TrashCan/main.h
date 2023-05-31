@@ -4,6 +4,7 @@
 #define F_CPU 16000000UL
 #include <util/delay.h>
 #include <avr/io.h>
+#include <avr/interrupt.h>
 /* ------------------------------------------------------------------------------- */
 /*  OK128.h : I/O Address Definition & User Function for OK-128 V2.2 Training Kit  */
 /* ------------------------------------------------------------------------------- */
